@@ -1,0 +1,24 @@
+{
+    "header": {
+        "welcome_back": "Bienvenido, {name}",
+        "skip_to_main": "Pasar al seccion mas importante"
+    },
+    "footer": {
+        "title": "Comienzo del pie",
+        "brands": "Marcas populares",
+        "navigate": "Navegar",
+        "info": "Informacion",
+        "categories": "Categorias",
+        "call_us": "Llamenos {phone_number}",
+        "powered_by": "Impulsado por"
+    },
+    "home": {
+        "heading": "Hogar"
+    },
+    "blog": {
+        "recent_posts": "Entradas recientes",
+        "label": "Blog",
+        "posted_by": "Entradas por {name}",
+        "read_more": "Leer mas"
+    }
+}
